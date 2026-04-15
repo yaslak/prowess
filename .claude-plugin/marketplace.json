@@ -1,0 +1,13 @@
+{
+  "name": "prowess",
+  "owner": {
+    "name": "ly"
+  },
+  "plugins": [
+    {
+      "name": "prowess",
+      "description": "Personal dev toolkit for Laravel development with Claude Code",
+      "source": "./"
+    }
+  ]
+}
