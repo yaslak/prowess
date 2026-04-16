@@ -17,9 +17,5 @@
   "serena": {
     "command": "uvx",
     "args": ["--from", "git+https://github.com/oraios/serena", "serena", "start-mcp-server"]
-  },
-  "laravel-boost": {
-    "command": "php",
-    "args": ["artisan", "boost:mcp"]
   }
 }

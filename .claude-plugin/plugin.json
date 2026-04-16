@@ -1,7 +1,7 @@
 {
     "name": "prowess",
     "description": "Personal dev toolkit — curated skills, agents and commands for Laravel development with Claude",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "ly"
     },
